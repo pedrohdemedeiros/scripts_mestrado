@@ -46,6 +46,10 @@ python nome_do_script.py <file_path> <start> <end> <region_name> [--window_size 
 - `region_name`: Nome da região a ser destacada.
 - `window_size` (opcional): Tamanho da janela para calcular a média móvel. O valor padrão é 3.
 
+O arquivo de scores de conservação é um arquivo .defattr gerado pelo programa [ChimeraX~](https://www.cgl.ucsf.edu/chimerax/) a partir de uma alinhamento de proteínas junto a um PDB representativo.
+Você pode ver como gerar esse arquivo [aqui](https://www.cgl.ucsf.edu/chimerax/docs/user/commands/save.html) e como fazer a avaliação de conservação [aqui](https://www.rbvi.ucsf.edu/chimerax/data/conservation-coloring/conservation-coloring.html).
+
+
 ### 3. Visualize o gráfico
 
 O script irá gerar e exibir o gráfico de conservação.
