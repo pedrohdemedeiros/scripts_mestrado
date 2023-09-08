@@ -23,7 +23,7 @@ As premissas assumidas são:
 
 Para usar o script, execute:
 
-./script_name.sh <diretório_dos_fastas> <nome_do_fasta_final>
+./limpa_fasta.sh <diretório_dos_fastas> <nome_do_fasta_final>
 
 Onde:
 - `<diretório_dos_fastas>` é o diretório contendo os arquivos FASTA que você deseja processar.
