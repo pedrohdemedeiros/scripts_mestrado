@@ -9,7 +9,9 @@ Você precisará de um arquivo contendo uma lista de códigos do NCBI correspond
 
 "
 PNX93062
+
 PNX87547
+
 PNX86258
 "
 
