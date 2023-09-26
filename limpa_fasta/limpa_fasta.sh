@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Verifica se os argumentos foram fornecidos
 if [ "$#" -ne 2 ]; then

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Verifica se as ferramentas necessárias estão instaladas
 command -v esearch >/dev/null 2>&1 || { echo >&2 "esearch não encontrado. Por favor, instale E-utilities do NCBI."; exit 1; }
