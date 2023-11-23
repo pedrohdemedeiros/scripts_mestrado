@@ -1,6 +1,3 @@
-Aqui está uma documentação em Markdown para o script de avaliação de sequências de alinhamento:
-
-```markdown
 # Documentação do Script de Avaliação de Sequências de Alinhamento
 
 Este script é utilizado para identificar sequências de DNA que potencialmente prejudicam o alinhamento em arquivos no formato FASTA.
@@ -57,8 +54,3 @@ seq_id_2
 - Seu Nome (opcional)
 
 ## Licença
-
-- Licença sob a qual o script é distribuído (opcional)
-```
-
-Ao incluir o script completo na seção "Código do Script", os usuários podem copiar e colar facilmente em seu ambiente de desenvolvimento. Certifique-se de incluir o código inteiro onde indicado para oferecer um guia completo para os usuários.
