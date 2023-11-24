@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # This Python script generates a plot for moving averages of conservation scores. 
 # Este script Python gera um gráfico para médias móveis de escores de conservação.

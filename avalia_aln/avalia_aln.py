@@ -1,4 +1,5 @@
-# Cabeçalho de script para avaliação de sequências de alinhamento
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # IMPORTANTE: Antes de executar este script, certifique-se de que você tem um arquivo de alinhamento no formato FASTA.
 # O arquivo deve conter todas as sequências de DNA que você deseja analisar.
